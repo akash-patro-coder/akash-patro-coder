@@ -20,10 +20,10 @@
 
 ## 🎨 **About Me**
 
-I’m a **Data Engineer (2+ years)** with strong hands-on experience in:
+I’m a **Data Engineer (3+ years)** with strong hands-on experience in:
 
 🔥 Building scalable ETL pipelines  
-🔥 Optimizing PySpark workloads  
+🔥 Optimising PySpark workloads  
 🔥 Designing clean data models  
 🔥 Azure + Databricks production environments  
 
@@ -57,7 +57,7 @@ I’m a **Data Engineer (2+ years)** with strong hands-on experience in:
 
 ### Accenture — Data Engineer  
 - ETL pipelines (ADF + Databricks)  
-- PySpark optimization  
+- PySpark optimisation  
 - Delta Lake layers  
 - CI/CD + monitoring  
 
