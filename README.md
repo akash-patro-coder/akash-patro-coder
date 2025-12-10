@@ -1,5 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
+  <img src="https://datafanalytics.com/wp-content/uploads/2023/11/Data-Engineering-Image.jpg"/>
   <img src="https://svg-banners.vercel.app/api?type=origin&text1=Akash%20Patro%20✨&text2=Data%20Engineer%20|%20Azure%20·%20Databricks%20·%20PySpark&width=1200&height=260" />
 </p>
 
